@@ -1,0 +1,49 @@
+{
+  "@context": "https://readium.org/webpub-manifest/context.jsonld",
+  "metadata": {
+    "@type": "http://schema.org/Book",
+    "title": "Broučci",
+    "identifier": "urn:uuid:9ff7bfa5-f02b-4408-ab12-4744c8b01af4",
+    "author": "Jan Karafiát",
+    "language": "cs",
+    "modified": "2021-12-07T10:12:44.865Z"
+  },
+  "readingOrder": [
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/title.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/part1.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/part2.xhtml"
+    },
+    {
+      "type": "application/xhtml+xml",
+      "href": "OEBPS/part3.xhtml"
+    }
+  ],
+  "resources": [
+    {
+      "type": "application/x-dtbncx+xml",
+      "href": "OEBPS/toc.ncx"
+    }
+  ],
+  "toc": [
+    {
+      "title": "Part 1",
+      "href": "OEBPS/part1.xhtml"
+    },
+    {
+      "title": "Part 2",
+      "href": "OEBPS/part2.xhtml"
+    },
+    {
+      "title": "Part 3",
+      "href": "OEBPS/part3.xhtml"
+    }
+  ]
+}

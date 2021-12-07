@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta name="dtb:uid" content="urn:uuid:9ff7bfa5-f02b-4408-ab12-4744c8b01af4"/>
+    <meta name="dtb:depth" content="1"/>
+  </head>
+  <docTitle>
+    <text>Broučci</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="part1" playOrder="0">
+      <navLabel>
+        <text>Part 1</text>
+      </navLabel>
+      <content src="part1.xhtml"/>
+    </navPoint>
+    <navPoint id="part2" playOrder="1">
+      <navLabel>
+        <text>Part 2</text>
+      </navLabel>
+      <content src="part2.xhtml"/>
+    </navPoint>
+    <navPoint id="part3" playOrder="2">
+      <navLabel>
+        <text>Part 3</text>
+      </navLabel>
+      <content src="part3.xhtml"/>
+    </navPoint>
+  </navMap>
+</ncx>

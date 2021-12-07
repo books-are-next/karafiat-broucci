@@ -1,0 +1,48 @@
+{
+  "epub": {
+    "metadata": {
+      "title": "Broučci",
+      "identifier": "urn:uuid:9ff7bfa5-f02b-4408-ab12-4744c8b01af4",
+      "author": "Jan Karafiát",
+      "modified": "2021-12-07T10:12:44.865Z"
+    },
+    "chapters": [
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "title.md",
+        "xhtml": "title.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "part1.md",
+        "xhtml": "part1.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "part2.md",
+        "xhtml": "part2.xhtml"
+      },
+      {
+        "titleSuggest": "",
+        "subtitleSuggest": "",
+        "filename": "part3.md",
+        "xhtml": "part3.xhtml"
+      }
+    ],
+    "resources": [
+      {
+        "type": "application/x-dtbncx+xml",
+        "href": "OEBPS/toc.ncx"
+      }
+    ],
+    "classes": [],
+    "github": {
+      "user": "books-are-next",
+      "repo": "karafiat-broucci"
+    },
+    "generatedAt": 1638871965027
+  }
+}
