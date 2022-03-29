@@ -1,0 +1,110 @@
+{
+  "author": "Jan Karafiát",
+  "contenttype": "prose",
+  "edition": "beletrie",
+  "identifier": "karafiat-broucci-789a750",
+  "languagecode": "cs",
+  "modified": "2010-06-24T00:00:00.000Z",
+  "publishershort": "mkp",
+  "title": "Broučci",
+  "revision": "789a750",
+  "generatedAt": {
+    "date": "Tue Mar 29 2022 08:54:32 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1648544072200
+  },
+  "documents": [
+    {
+      "title": "Broučci",
+      "file": "part1.html",
+      "words": 9703,
+      "chars": 52346,
+      "ideas": 154,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "part2.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Broučci",
+          "id": "broučci",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Broučci",
+      "file": "part2.html",
+      "words": 9654,
+      "chars": 51531,
+      "ideas": 126,
+      "role": "chapter",
+      "order": 1,
+      "prev": "part1.html",
+      "next": "part3.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Broučci",
+          "id": "broučci",
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Broučci",
+      "file": "part3.html",
+      "words": 4893,
+      "chars": 26810,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 2,
+      "prev": "part2.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        },
+        {
+          "index": 1,
+          "level": 1,
+          "name": "Broučci",
+          "id": "broučci",
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 24256,
+      "chars": 130722,
+      "ideas": 358
+    },
+    "chapters": {
+      "words": 24250,
+      "chars": 130687,
+      "ideas": 353
+    }
+  }
+}
