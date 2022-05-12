@@ -1,16 +1,22 @@
 {
-  "author": "Jan Karafiát",
-  "contenttype": "prose",
-  "edition": "beletrie",
-  "identifier": "karafiat-broucci-789a750",
-  "languagecode": "cs",
-  "modified": "2010-06-24T00:00:00.000Z",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Broučci",
-  "revision": "789a750",
+  "author": "Jan Karafiát",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "karafiat-broucci-933d0d0",
+  "revision": "933d0d0",
+  "readingOrder": [
+    "part1.html",
+    "part2.html",
+    "part3.html"
+  ],
   "generatedAt": {
-    "date": "Tue Mar 29 2022 08:54:32 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1648544072200
+    "date": "Thu May 12 2022 10:37:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351857558
   },
   "documents": [
     {
