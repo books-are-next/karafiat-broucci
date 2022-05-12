@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
+  - promo.html
   - part1.html
   - part2.html
   - part3.html
