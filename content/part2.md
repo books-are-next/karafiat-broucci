@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # Broučci
 
 Brouček se tak chvíli na to díval a naslouchal. Potom sletěl s hrušky a pěkně po zahradě svítil. Však tam byli ještě jiní broučci a pořád na sebe volali: „Zdař Bůh, Zdař Bůh!“ A ta zahrada byla taková veliká a krásná. Ale tu slyší Brouček od domu krásnou hudbu, náramně krásnou, a když přiletěl trochu blíž k oknu, tu viděl toho kaštanového sedět u takové almárky a klepat na takové černé a bílé klapky. Ale ten bělohlavý už běžel zas k oknu, a proto Brouček raději zpátky. Však to dlouho netrvalo, ta krásná hudba přestala a světlo se z pokoje ztratilo. Tam v těch oknech u samé střechy vpravo se na chvilku objevilo, ale pak zas zmizelo. Jen v jednom okně zůstalo.
@@ -253,3 +255,5 @@ A když jednou tatínek dlouho nešel ke snídani, šel se Brouček po něm do s
 A tak mu pod olšičkou u potoka vykopali hrobeček, zaplakali, pěkně ho tam uložili a třetí den tam kvetla chudobička, bílá jako mléko. Však tam kvete podnes.
 
 „Kmotřičko, zůstávejte u nás. Nebudeme tak sami,“ prosili Brouček a Beruška. Ale kmotřička, že ne. „Ne, ne, milé děti, já musím doma umřít, a od nás mne zanesete tam do lesa pod dub, rozumíte?“ A tak zůstali sami. Brouček a Beruška sami, kmotřička sama, Janinka sama, jen tam v roždí se ten mladý Brouček oženil a byli staří i mladí pohromadě.
+
+</section>
