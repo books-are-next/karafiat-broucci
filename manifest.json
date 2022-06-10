@@ -7,8 +7,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "karafiat-broucci-933d0d0",
-  "revision": "933d0d0",
+  "identifier": "karafiat-broucci-f4dbc38",
+  "revision": "f4dbc38",
   "readingOrder": [
     "promo.html",
     "part1.html",
@@ -16,8 +16,8 @@
     "part3.html"
   ],
   "generatedAt": {
-    "date": "Thu May 12 2022 15:11:10 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1652368270182
+    "date": "Fri Jun 10 2022 17:51:22 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1654883482857
   },
   "documents": [
     {

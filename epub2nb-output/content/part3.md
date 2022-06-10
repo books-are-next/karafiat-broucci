@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # Broučci
 
 A tak zas svítili a svítili, a když už slunce vycházelo, čekával Brouček na toho mladého z roždí, a letěli spolu domů. A svítili a svítili, a ta veliká silná paní v tom pěkném domě sedávala u stolu a psávala dlouhá psaní, a ta malá holčička byla už taková velká a krásná. Mívala dlouhou, bělounkou zástěrku a pomáhala v kuchyni kuchařce. A ten bělohlavý Pavlíček – ne, ten tam nikde nebyl. Myslím, že byl někde na školách.
@@ -147,3 +149,5 @@ Pac a pusu, a už leželi a už spali, a spali a spali.
 A byla zima. Ach, to byla zima, zlá zima! Potoky zamrzly až na dno, ptáci padali z povětří – mrzlo, až se jiskřilo. Ach, ti broučci pod jalovcem, jestli oni to vydrží? – Nechť. Však jestli zmrznou, oni poslušně zmrznou. –
 
 A bylo jaro. Všecko, všecko kvetlo, ale pravšecko, a tam pod jalovcem kvetlo dvanáct chudobiček, devět bělounkých jako mléko a tři s krajíčkem jako krev červeným. Však tam kvetou podnes.
+
+</section>

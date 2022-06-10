@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 # Broučci
 
 Jan Karafiát
@@ -309,3 +311,5 @@ A kmotříček, teď že si musejí popílit a svítit a svítit, aby to zas doh
 „Tatínku, já budu svítit tady v zahradě, ano?“ – A tatínek se radil s kmotříčkem a zdálo se jim, že ano, ale – „Milý Broučku, to bys tu musil zůstat sám. My musíme tam, kde jindy, svítit.“ – A Brouček, že ano, jen aby se pro něho stavili, až poletí domů. – „Tak jen pěkně sviť. Víš, co tam na lešeníčku povídal.“
 
 A letěli tam v druhou stranu za město, kde vždycky svítili, a Brouček letěl do zahrady. Chtěl svítit, ale v těch dvou oknech bylo světlo a tu viděl Brouček, jak si v tom pokoji sedala ta velká, silná paní a ta holčička a ti hoši kolem stolu. Na něm stál kotýlek s kohoutkem a pod ním hořel modrý plamínek. Už to strašně syčelo. Paní měla před sebou bílou konvičku a čtyři šálky. Postavila konvičku ke kotýlku, zatočila kohoutkem a vařící voda se jen valila. Pak, že se budou modlit. Sepjali ruce, sklonili hlavu a ta holčička se modlila krásně nahlas takovou pěknou modlitbičku. Brouček poslouchal, už byl u samého okna, okno bylo otevřeno – Brouček až do pokoje, sedl si u okna na stolečku na knížku. Ta paní nalévala do šálečků, služka měla pro ty hochy pomazánku už namazanou, a „Pavílku, o čem se dnes kázalo? Pověz!“ ptala se paní toho bělohlavého. – „Že máme pěkně poslouchat.“ – „Tak si to pamatuj! A ta slova si zas všichni zopakujeme.“ A nejdřív řekla ta paní: „Aj, poslouchati lépe jest než obětovati,“ pak to řekl ten kaštanový, pak ten bělovlasý, tak ta holčička a naposledy tam vzadu to opakovala služka. Ale ten bělohlavý se jaksi ohlédl. „Frédo, vidíš ho!“ a už běžel na milého Broučka. Jenže Brouček nečekal a už honem zas oknem ven. Ale dostal strach. Což kdyby ho byl ten hošík chytil! A tak letěl na hrušku a sedl si na samý vrcholek. Měsíček jak rybí oko, hvězdičky se jen jen třásly a tam v trávě cvrčel ještě někde cvrček. Nemohl snad usnout.
+
+</section>
